@@ -1,2 +1,0 @@
-// Arrays in ES6
-
